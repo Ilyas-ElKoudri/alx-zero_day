@@ -1,2 +1,2 @@
-#!/bin/bao
-#"ALX"h
+#!/bin/bash
+echo "ALX"
